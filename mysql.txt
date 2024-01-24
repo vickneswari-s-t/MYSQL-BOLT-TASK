@@ -81,7 +81,6 @@ ORDER BY population DESC
 LIMIT 2 OFFSET 2;
 
 lesson:6
-
 simple queriesMulti-table queries with JOINs
 1.Find the domestic and international sales for each movie ✓
 SELECT title, domestic_sales, international_sales
